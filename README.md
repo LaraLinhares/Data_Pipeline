@@ -30,6 +30,7 @@ O código possui uma classe `Dados` com os seguintes métodos e funcionalidades 
   - `csv`
 
 ## Estrutura de Código
+```sh
 .
 ├── data_raw/
 │   ├── dados_empresaA.json
@@ -41,6 +42,7 @@ O código possui uma classe `Dados` com os seguintes métodos e funcionalidades 
 ├── scripts/
 │   ├── fusao_mercado_fev.py
 │   └── processamento_dados.py
+```
 
 ## Mais Informações
   Código desenvolvido durante o curso "Pipeline de dados: combinando Python e orientação a objeto" da Alura.
